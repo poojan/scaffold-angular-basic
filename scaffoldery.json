@@ -3,7 +3,7 @@
   "platform": "angular",
   "generators": [
     {
-      "name": "suite",
+      "name": "basic",
       "templatesDirectory": "templates",
       "promptsFile": "prompts.js"
     }
