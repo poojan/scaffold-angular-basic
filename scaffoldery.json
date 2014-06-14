@@ -1,0 +1,12 @@
+{
+  "package": "poojan/scaffold-angular-mishmash",
+  "platform": "angular",
+  "generators": [
+    {
+      "name": "suite",
+      "templatesDirectory": "templates",
+      "promptsFile": "prompts.js"
+    }
+  ]
+}
+
