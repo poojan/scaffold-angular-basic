@@ -1,5 +1,5 @@
 {
-  "package": "poojan/scaffold-angular-mishmash",
+  "package": "poojan/scaffold-angular-basic",
   "platform": "angular",
   "generators": [
     {
